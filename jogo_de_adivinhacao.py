@@ -1,6 +1,4 @@
 import random
-
-print:("Bem vindo ao Jogo!")
 choice_number = input("Dígite um numero para começarmos!:")
 
 if choice_number.isdigit():
