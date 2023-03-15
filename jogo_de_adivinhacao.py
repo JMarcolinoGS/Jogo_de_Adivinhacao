@@ -30,3 +30,4 @@ while True:
         print("O numero é maior que isto")
 
     print("Nº de tentativas:" + str(n_choices))
+s
