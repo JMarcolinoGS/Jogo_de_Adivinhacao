@@ -1,7 +1,7 @@
 import random
 choice_number = input("Dígite um numero para começarmos!:")
 
-if choice_number.isdigit()
+if choice_number.isdigit():
     choice_number = int(choice_number)
 else:
     print("Erro: valor informado não é numerico. Favor execute novamente e informe um numero")
