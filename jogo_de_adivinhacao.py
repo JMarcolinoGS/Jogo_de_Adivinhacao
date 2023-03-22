@@ -1,4 +1,4 @@
-import rando
+import rand
 choice_number = input("Dígite um numero para começarmos!:")
 
 if choice_number.isdigit():
