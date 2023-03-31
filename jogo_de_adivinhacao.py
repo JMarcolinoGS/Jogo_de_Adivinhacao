@@ -12,7 +12,7 @@ random_number = random.randint(0,choice_number)
 n_choices = 0
 
 while True:
-    answer_user = input("Adivinhe o mumero:")
+    answer_user = input("Adivinhe o numero:")
     if answer_user.isdigit():
         answer_user = int(answer_user)
     else:
