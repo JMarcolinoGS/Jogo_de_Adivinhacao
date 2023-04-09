@@ -27,7 +27,7 @@ while True:
     elif answer_user > random_number:
         print("Chutou alto,tente um número menor")
     else:
-        print("O numero é maior que isto")
+        print("O numero é menor que isto")
 
     print("Nº de tentativas:" + str(n_choices))
 
