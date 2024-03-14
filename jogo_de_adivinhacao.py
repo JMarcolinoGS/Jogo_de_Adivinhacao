@@ -32,3 +32,4 @@ while True:
     print("Nº de tentativas:" + str(n_choices))
 
 
+
